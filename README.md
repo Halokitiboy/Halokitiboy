@@ -1,23 +1,13 @@
 - 👋 Hi, I’m @Halokitiboy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-
-![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=Halokitiboy&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact&theme=tokyonight)
+![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=Halokitiboy&show_icons=true&theme=tokyonight)
 
-
-
-You are my ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg) visitor ,Thank you 
-
+You are my ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg) visitor ,Thank you 🎉🎉
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
