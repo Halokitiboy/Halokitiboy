@@ -7,7 +7,7 @@
 You are my ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg) visitor ,Thank you 🎉🎉
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 ### Frontend  
 <div align="center">  
@@ -18,7 +18,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.sv
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -41,7 +41,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.sv
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td>
 
 <!---
 Halokitiboy/Halokitiboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
