@@ -1,9 +1,12 @@
 - 👋 Hi, I’m @Halokitiboy
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Halokitiboy&theme=algolia)
 
-![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=Halokitiboy&show_icons=true&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Halokitiboy&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Halokitiboy&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Halokitiboy&theme=algolia&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Halokitiboy&theme=algolia)
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg) visitor ,Thank you 🎉🎉
 
