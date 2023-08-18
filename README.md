@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Halokitiboy
 
 
+You are my ![:name](https://count.getloli.com/get/@:Halokitiboy?theme=asoul) visitor ,Thank you 🎉🎉
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Halokitiboy&theme=algolia)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Halokitiboy&theme=algolia) 
@@ -8,7 +10,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Halokitiboy&theme=algolia&utcOffset=8) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Halokitiboy&theme=algolia)
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg) visitor ,Thank you 🎉🎉
 
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
