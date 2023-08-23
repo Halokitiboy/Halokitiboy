@@ -10,6 +10,8 @@ You are my ![:name](https://count.getloli.com/get/@:Halokitiboy?theme=asoul) vis
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Halokitiboy&theme=algolia&utcOffset=8) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Halokitiboy&theme=algolia)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
@@ -52,3 +54,4 @@ You are my ![:name](https://count.getloli.com/get/@:Halokitiboy?theme=asoul) vis
 Halokitiboy/Halokitiboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
