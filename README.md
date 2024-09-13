@@ -54,10 +54,5 @@
 
 <br/> 
 
-### 🎧 Spotify Playing
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=317j6qfsavdqysytcgippj6jepeu&cover_image=true&theme=default&show_offline=false&background_color=202820&interchange=true" /></div>
-
-
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
